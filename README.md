@@ -2,6 +2,12 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/fernandofatech/EmailAutomationSystem)
 
+![Last Commit](https://img.shields.io/github/last-commit/fernandofatech/EmailAutomationSystem?color=%23abd100&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/fernandofatech/EmailAutomationSystem?color=%23ff47b6&style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues-raw/fernandofatech/EmailAutomationSystem?color=%239e6eff&style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr-raw/fernandofatech/EmailAutomationSystem?color=%2302b09f&style=for-the-badge)
+
+
 # :e-mail: Automate Reminder Emails for Research Participants
 
 **AutoRemind** is a Python email automation system for sending customizable reminders to participants at different timepoints throughout a study.
